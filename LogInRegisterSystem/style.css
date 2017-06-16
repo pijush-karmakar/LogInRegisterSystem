@@ -1,0 +1,21 @@
+.navbar{
+    padding:10px;
+}
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a{
+       transition: 0.3s;
+}
+
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:hover{
+       background: #ddd;
+       color: #222;
+       border-radius: 3px;
+}
+.navbar-nav{
+	margin-top:6px;
+}
+.navbar-nav > li > a {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
