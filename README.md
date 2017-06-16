@@ -23,7 +23,7 @@ and then get login access.
 <img src="https://user-images.githubusercontent.com/23507207/27236098-59b3a5cc-52e5-11e7-9bad-5f8c8fd62065.jpg" />
 
 <h4>Others profile : </h4>
-<P>if you are logged in ,then you can only update your profile,and change your password .</P>
+<P>if you are logged in then you can only update your profile, and change your password or not .</P>
 <img src="https://user-images.githubusercontent.com/23507207/27236146-8ad35be8-52e5-11e7-95f6-cd735fceefab.jpg" />
 
 <h4>Change paasword page : </h4>
